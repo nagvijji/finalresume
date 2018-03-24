@@ -1,0 +1,24 @@
+{
+  "basics":{
+    "objective":"all are true"
+  },
+  "education":[
+  {
+
+    "degree":"B.Tech(computer science of engineering)",
+    "college":"DR. KV.SUBBAREDDYCOLLEGE OF ENGINEERING FOR WOMEN",
+    "data":["2015-19","75%"]
+},
+  {
+    "degree":"srichaithanya college
+   education(diploma)",
+    "college":"sri vasavi engineering college",
+    "data":["2013-15","77%"]
+  },
+  {
+    "degree":"ssc",
+    "college":"kendriya vidyalaya",
+    "data":["2012-13","72%"]
+  }
+]
+}
